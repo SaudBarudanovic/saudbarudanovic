@@ -21,15 +21,15 @@
 
 ---
 
-I build fast, clean, and scalable web experiences. I run **[Navhaus](https://navhaus.com)** - a web studio specialising in custom WordPress development (Sage + Blade), modern React/Next.js applications, and everything in between.
+I build fast, clean, and scalable web experiences. I run **[Navhaus](https://navhaus.com)**, a web studio specialising in custom website development (WordPress/Next.js), modern React applications, and everything in between.
 
 My stack leans heavily on PHP for robust backend logic, TypeScript/React for interactive frontends, and Tailwind CSS + Figma for UI that doesn't cut corners.
 
 ---
 
-## ⚡ Navhaus - PageSpeed Insights
+## Navhaus - PageSpeed Insights
 
-> Real-world performance of my own studio - measured, not claimed.
+> Real-world performance of the Navhaus website, live measured metrics.
 
 <img src="metrics.pagespeed.svg" alt="PageSpeed Insights for navhaus.com" width="100%" />
 
@@ -42,7 +42,7 @@ My stack leans heavily on PHP for robust backend logic, TypeScript/React for int
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <table>
   <tr>
