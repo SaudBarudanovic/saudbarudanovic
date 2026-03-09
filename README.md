@@ -35,6 +35,13 @@ My stack leans heavily on PHP for robust backend logic, TypeScript/React for int
 
 ---
 
+## 🎵 Currently Listening
+
+[![Canggu](https://img.shields.io/badge/FKJ-Canggu-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5Wx9xfNURyR3OaMNNlEk8j)
+[![Ylang Ylang](https://img.shields.io/badge/FKJ%20%2F%20%28%28%28%20O%20%29%29%29-Ylang%20Ylang-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2CuUB5MbfRShtunR8g5hjR)
+
+---
+
 ## 📊 GitHub Activity
 
 <table>
@@ -43,7 +50,7 @@ My stack leans heavily on PHP for robust backend logic, TypeScript/React for int
       <img src="metrics.languages.svg" alt="Languages" width="100%" />
     </td>
     <td width="50%">
-      <img src="metrics.isocalendar.svg" alt="Isometric commit calendar" width="100%" />
+      <img src="metrics.activity.svg" alt="Recent activity" width="100%" />
     </td>
   </tr>
   <tr>
