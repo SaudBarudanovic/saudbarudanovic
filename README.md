@@ -27,11 +27,16 @@ My stack leans heavily on PHP for robust backend logic, TypeScript/React for int
 
 ---
 
-## Navhaus - PageSpeed Insights
-
-> Real-world performance of the Navhaus website, live measured metrics.
-
-<img src="metrics.pagespeed.svg" alt="PageSpeed Insights for navhaus.com" width="100%" />
+<table>
+  <tr>
+    <td width="50%">
+      <img src="metrics.languages.svg" alt="Languages" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="metrics.pagespeed.svg" alt="PageSpeed Insights for navhaus.com" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -39,31 +44,6 @@ My stack leans heavily on PHP for robust backend logic, TypeScript/React for int
 
 [![Canggu](https://img.shields.io/badge/FKJ-Canggu-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5Wx9xfNURyR3OaMNNlEk8j)
 [![Ylang Ylang](https://img.shields.io/badge/FKJ%20%2F%20%28%28%28%20O%20%29%29%29-Ylang%20Ylang-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2CuUB5MbfRShtunR8g5hjR)
-
----
-
-## GitHub Activity
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="metrics.languages.svg" alt="Languages" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="metrics.activity.svg" alt="Recent activity" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="metrics.achievements.svg" alt="Achievements" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="metrics.habits.svg" alt="Coding habits" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
 
 <div align="center">
   <sub>Metrics auto-updated daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
